@@ -1,4 +1,5 @@
 # 2.DETERMINATION-OF-CURRENT-IN-CIRCUIT-USING-MESH-ANALYSIS
+Reference No:25018441
 
 **AIM:**
 
@@ -22,6 +23,14 @@
 
 **CIRCUIT DIAGRAM:**
 
+![WhatsApp Image 2025-12-19 at 23 33 44_8c558a71](https://github.com/user-attachments/assets/36484833-7aa4-4def-9c65-535a68a8c184)
+**TABULAR COLUMN**
+
+![WhatsApp Image 2025-12-19 at 23 35 39_4390407f](https://github.com/user-attachments/assets/1fee28f1-f6f3-4217-8439-6f9024cc55a1)
+**CALCULATIONS**
+
+![WhatsApp Image 2025-12-19 at 23 37 37_6e31cf69](https://github.com/user-attachments/assets/30c0a2d7-d92b-4d03-8483-cdb26a6d3bab)
+
 **PROCEDURE:** 
 
 1.	Give connections as per the circuit diagram.
@@ -36,13 +45,18 @@
 
 6.	Using the tabulated values, verify Kirchoff’s laws practically, and verify it theoretically.
 
+**MARKS SPLIT UP**
+
+![WhatsApp Image 2025-12-19 at 23 40 00_e56ab8aa](https://github.com/user-attachments/assets/46d81dc6-65b3-4645-a52d-7b3abbed12a9)
+
+
    **RESULT:**
 
 Thus, the Mesh analysis is verified practically and theoretically. The resultant currents for 	/	V supply are:
 
-a)	The current across 330Ω resistor is	A.
+a)	The current across 330Ω resistor is	1.3A.
 
-b)	The current across 560Ω resistor is	A.
+b)	The current across 560Ω resistor is	-4.3A.
 
-c)	The current across 470Ω resistor is	A.
+c)	The current across 470Ω resistor is	5.4A.
 
